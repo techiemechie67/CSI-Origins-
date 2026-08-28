@@ -1,1 +1,6 @@
-
+fastapi
+uvicorn[standard]
+httpx
+supabase
+python-dotenv
+elevenlabs
